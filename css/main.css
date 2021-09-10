@@ -29,3 +29,17 @@ section { display: flex; }
 .text-light { font-size: 30px; color: #A0A0A0; }
 .text-secondary { font-size: 30px; color: #faa541; }
 .text-primary { font-size: 16px; color: #364147; }
+.header-nav{
+  border-bottom: 1px;
+  border-color: #a0a0a0;
+}
+.brand{
+  width: 85px;
+  height: 170px;
+  margin-left: -15px;
+  margin-right: 60px;
+}
+.logo{
+  max-width: 100%;
+  max-height: auto;
+}
